@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dev Rana",
+    "age": 23,
+    "email": "devrana1202@gmail.com",
+    "course": "Full Stack Development"
+  },
+  {
+    "id": 2,
+    "name": "MOhit Jain",
+    "age": 25,
+    "email": "mohit123@gmail.com",
+    "course": "Signals and System"
+  },
+  {
+    "id": 3,
+    "name": "Roshan prajapati",
+    "age": 21,
+    "email": "roshan456@gmail.com",
+    "course": "Data Structures and Algorithms"
+  }
+]
